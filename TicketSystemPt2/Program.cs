@@ -2,7 +2,7 @@
 using System.IO;
 using NLog;
 
-namespace TicketSystemPt2
+namespace TicketSystemPt3
 {
     class Program
     {

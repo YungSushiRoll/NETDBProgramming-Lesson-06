@@ -18,7 +18,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieListing", "MovieListin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieLibrary", "MovieLibrary\MovieLibrary.csproj", "{2F76AD77-4EF2-4F5F-AD32-9A0DE36C4C66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketSystemPt2", "TicketSystemPt2\TicketSystemPt2.csproj", "{39B822E8-583D-435E-91AB-AFAE33BB339C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketSystemPt3", "TicketSystemPt2\TicketSystemPt3.csproj", "{39B822E8-583D-435E-91AB-AFAE33BB339C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

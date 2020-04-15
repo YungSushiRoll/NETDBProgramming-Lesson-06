@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TicketSystemPt2
+namespace TicketSystemPt3
 {
     public class Ticket
     {
